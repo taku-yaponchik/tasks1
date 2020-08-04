@@ -1,0 +1,10 @@
+text="SnopDogcoolsingle."
+print("1: "+text[2])
+print("2: "+text[-2])
+print("3: "+text[0:5])
+print("4: "+text[:-2])
+print("5: "+text[::2])
+print("6: "+text[1::2])
+print("7: "+text[::-1])
+print("8: "+text[::-2])
+print("8: "+text[::])
